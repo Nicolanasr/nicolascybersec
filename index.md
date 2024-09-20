@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+I am a skilled IT analyst with five years of experience in software development and two years specializing in aligning communication between stakeholders and ensuring the correct application of security standards. I value integrity, collaboration, and continuous learning, which guide my proactive approach to mitigating risks and enhancing organizational security. My interest in cybersecurity stems from a passion for protecting systems and sensitive data from evolving threats. By leveraging my technical expertise, commitment to best practices, and ability to communicate security needs effectively, I aim to support organizations in building resilient security frameworks that safeguard their operations and data.
 
 [Link to another page](./another-page.html).
 
