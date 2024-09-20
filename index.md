@@ -4,12 +4,6 @@ layout: default
 
 I am a skilled IT analyst with five years of experience in software development and two years specializing in aligning communication between stakeholders and ensuring the correct application of security standards. I value integrity, collaboration, and continuous learning, which guide my proactive approach to mitigating risks and enhancing organizational security. My interest in cybersecurity stems from a passion for protecting systems and sensitive data from evolving threats. By leveraging my technical expertise, commitment to best practices, and ability to communicate security needs effectively, I aim to support organizations in building resilient security frameworks that safeguard their operations and data.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
